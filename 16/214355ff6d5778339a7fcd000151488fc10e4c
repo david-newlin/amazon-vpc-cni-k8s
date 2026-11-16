@@ -1,0 +1,35 @@
+cmd/routed-eni-cni-plugin/cni.go
+  s_9faacdaeb293ab::t_70b90a2e25c212 383
+  s_9faacdaeb293ab::t_5341a1eee96354 472
+  s_9faacdaeb293ab::t_08ac98bb4f54d8 434
+  s_9faacdaeb293ab::t_f593c4582231b6 413
+  s_9faacdaeb293ab::t_34c5db643a4843 525-533,540
+cmd/routed-eni-cni-plugin/cni_test.go
+  s_9faacdaeb293ab::t_cb0a3d6c8c56ea 592,598
+  s_9faacdaeb293ab::t_6f46bad504bf6f 700-713,715,717-731
+  s_9faacdaeb293ab::t_22784902b05cf4 653,659
+  s_9faacdaeb293ab::t_2b4560ddf6427a 506,514,563,571,624,632,714,716
+  s_9faacdaeb293ab::t_b7d66c9a3c04bb 92-111,734
+  s_9faacdaeb293ab::t_10f0b0e1af4c56 64
+  s_9faacdaeb293ab::t_796b516e89b245 676,693
+  s_9faacdaeb293ab::t_4152f54e008157 63,65
+  s_9faacdaeb293ab::t_f4fd25e1becf4f 534,537
+  s_9faacdaeb293ab::t_87176b4b0e8e74 732-733
+  s_9faacdaeb293ab::t_bce601d16efb67 735
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "16214355ff6d5778339a7fcd000151488fc10e4c",
+  "prompts": {},
+  "sessions": {
+    "s_9faacdaeb293ab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb4444e8-880e-409d-b34e-c15fed860c33",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "David Newlin <david.newlin@klaviyo.com>"
+    }
+  }
+}
