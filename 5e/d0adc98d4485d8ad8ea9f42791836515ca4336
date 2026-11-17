@@ -1,0 +1,37 @@
+cmd/routed-eni-cni-plugin/cni_test.go
+  s_9faacdaeb293ab::t_2b4560ddf6427a 551,559,608,616,669,677,759,761
+  s_9faacdaeb293ab::t_6f46bad504bf6f 745-758,760,762-776
+  s_9faacdaeb293ab::t_bce601d16efb67 780
+  s_9faacdaeb293ab::t_796b516e89b245 721,738
+  s_9faacdaeb293ab::t_f4fd25e1becf4f 579,582
+  s_9faacdaeb293ab::t_cb0a3d6c8c56ea 637,643
+  s_9faacdaeb293ab::t_10f0b0e1af4c56 64
+  s_9faacdaeb293ab::t_6f6ab4f351775f 486-530
+  s_9faacdaeb293ab::t_87176b4b0e8e74 777-778
+  s_9faacdaeb293ab::t_4152f54e008157 63,65
+  s_9faacdaeb293ab::t_22784902b05cf4 698,704
+  s_9faacdaeb293ab::t_b7d66c9a3c04bb 92-111,779
+cmd/routed-eni-cni-plugin/cni.go
+  s_9faacdaeb293ab::t_70b90a2e25c212 383
+  s_9faacdaeb293ab::t_4b8a9f49a37c87 413-415
+  s_9faacdaeb293ab::t_c681ba0afe835c 476-478
+  s_9faacdaeb293ab::t_3c8790bcca4724 436-438
+  s_9faacdaeb293ab::t_6c688544ae2b4a 531-536,541-545,551,564-568
+  s_9faacdaeb293ab::t_34c5db643a4843 537-540
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5ed0adc98d4485d8ad8ea9f42791836515ca4336",
+  "prompts": {},
+  "sessions": {
+    "s_9faacdaeb293ab": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fb4444e8-880e-409d-b34e-c15fed860c33",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
